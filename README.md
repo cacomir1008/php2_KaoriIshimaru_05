@@ -18,3 +18,5 @@ https://cacoo.com/diagrams/TmOotFFp2JrR8iIT/18A8A
             1　＝ 読み終わった（TOPページに移動）
 ②gs_user_table
 　ユーザーの登録
+
+すみません、Gitkrakenへのファイルペースト漏れを発見したため追加します
