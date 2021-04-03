@@ -44,8 +44,8 @@ if($status==false){
   $error = $stmt->errorInfo();
   exit("ErrorMessage:". print_r($error, true));
 }else{
-
-  //⑤select_book.phpへリダイレクト
-  header('Location:select_book.php');
+  //⑤select_book.phpへリダイレクト→SESSIONの問題かLoginエラーになったので、再度ログイン画面へ
+  header('Location:login.php');
+  exit;
 }
 ?>
